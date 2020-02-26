@@ -56,6 +56,8 @@ while [[ $CONFIRMATIONS != *$confirmation* ]]; do
 	read confirmation
 done
 if [[ 'yY' == *$confirmation* ]]; then
+	echo ''
+	echo ''
 	echo 'Which environment are you comparing versions for?'
 	kubectx
 	read env2

@@ -1,7 +1,7 @@
 # K8s Version Check
 
 ## What is it?
-A lightweight version checking script that utilizes kubectx to show lets you compare versions in different contexts.
+A lightweight version checking script that utilizes kubectx and lets you compare versions in different contexts.
 
 ## Installation
 Go to terminal and ensure that you have the following installed.

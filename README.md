@@ -23,5 +23,3 @@ To run the script, execute **version_check.sh**.
 ## License
 This work is protected under the GNU Public v3 license. For more information, please go to LICENSE.txt
 
-Banana
-
